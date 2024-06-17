@@ -1,0 +1,18 @@
+uuid: 98456a76-9aa8-4f9b-a1ae-dc2210e9a039
+langcode: en
+status: true
+dependencies: {  }
+id: local_split
+label: Local_split
+description: ''
+weight: 0
+stackable: false
+no_patching: false
+storage: collection
+folder: ''
+module:
+  webform_ui: 0
+theme: {  }
+complete_list:
+  - system.site
+partial_list: {  }
